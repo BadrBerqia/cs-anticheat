@@ -90,6 +90,3 @@ The project includes a simple FastAPI server to expose the detection model as an
             }'
     ```
 
-## Report
-
-A detailed report of the project's methodology, results, and conclusions is available in `latex_report/cs_anticheat_report.pdf`. You can re-compile the report from the `.tex` source file if you have a LaTeX distribution installed.
