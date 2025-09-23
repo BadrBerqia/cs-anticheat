@@ -8,7 +8,6 @@ This project implements a data-driven anti-cheat system for Counter-Strike, usin
 *   **Ensemble Modeling:** Combines multiple machine learning models (Random Forest, Gradient Boosting) for robust predictions.
 *   **Comprehensive Evaluation:** Includes scripts for cross-validation, performance visualization (ROC/PR curves), and business impact analysis.
 *   **REST API:** A simple FastAPI endpoint to get a prediction for a player's stats.
-*   **Detailed Reporting:** Generates a full LaTeX report summarizing the project's findings.
 
 ## Project Structure
 
