@@ -15,9 +15,6 @@ This project implements a data-driven anti-cheat system for Counter-Strike, usin
 .
 ├── data/                  # Raw and processed data (not in git)
 ├── final_models/          # Trained and balanced models
-├── latex_report/          # LaTeX source and compiled PDF report
-│   ├── cs_anticheat_report.tex
-│   └── cs_anticheat_report.pdf
 ├── notebooks/             # Jupyter notebooks for exploration
 ├── src/
 │   ├── api/
